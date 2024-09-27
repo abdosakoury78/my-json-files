@@ -20,7 +20,7 @@
     {
       "id": 3,
       "title": "Top 10 Beaches in Thailand",
-      "image": "https://images.unsplash.com/photo-1532191953170-81b5f189bb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIyfHx0aGFpbGFuZCUyMGJlYWNoZXN8ZW58MHx8fHwxNjc3MzU2MjEz&ixlib=rb-1.2.1&q=80&w=1080",
+      "image": "https://cdn.forevervacation.com/uploads/blog/top-5-best-beaches-in-thailand-4738.jpeg",
       "description": "From Phuket to Koh Samui, explore the top 10 beaches in Thailand for a perfect tropical getaway.",
       "author": "Emily Brown",
       "date": "2024-07-30",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "title": "A Guide to Exploring New York City",
-      "image": "https://cdn.forevervacation.com/uploads/blog/top-5-best-beaches-in-thailand-4738.jpeg",
+      "image": "https://media.cntraveler.com/photos/5a8f3b070e2cf839e9dbfa1d/16:9/w_1280,c_limit/NYC_GettyImages-640006562.jpg",
       "description": "Your ultimate guide to exploring the vibrant streets of New York City, the city that never sleeps.",
       "author": "Michael Johnson",
       "date": "2024-09-10",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "title": "The Magic of the Northern Lights",
-      "image": "https://images.unsplash.com/photo-1489518284301-0a40e67b0f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vcmR8ZW58MHx8fHwxNjc3MzU2MjU3&ixlib=rb-1.2.1&q=80&w=1080",
+      "image": "https://tourismpg.com/wp-content/uploads/2020/08/NorthernLights-1-1-scaled.jpg",
       "description": "Witness the breathtaking Northern Lights in Norway, an unforgettable experience for travelers.",
       "author": "Sophia Davis",
       "date": "2024-02-22",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "title": "Exploring the Amazon Rainforest",
-      "image": "https://images.unsplash.com/photo-1516311948051-e2a14b46ff65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxhbWF6b25fcmFpbmZvcmVzdHxlbnwwfHx8fDE2NzczNTYyMDM&ixlib=rb-1.2.1&q=80&w=1080",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mata-atlantica-atlantic-forest-in-brazil-royalty-free-image-1668724621.jpg",
       "description": "Get ready for an eco-adventure in the Amazon Rainforest, the world's largest tropical rainforest.",
       "author": "Carlos Martinez",
       "date": "2024-03-10",
