@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Exploring the Wonders of Paris",
-      "image": "assets/images/paris.jpg",
+      "image": "https://images.unsplash.com/photo-1519681393784-dc8f4e4c3b6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHBhcmlzfGVufDB8fHx8MTY3NzM1MjA0MA&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Discover the beauty of Paris, the city of lights, and its iconic landmarks like the Eiffel Tower.",
       "author": "John Doe",
       "date": "2024-09-20",
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Adventures in the Swiss Alps",
-      "image": "assets/images/swiss_alps.jpg",
+      "image": "https://images.unsplash.com/photo-1580701090654-8b8b637d3c61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIyfHxzd2lzcyUyMGFscHN8ZW58MHx8fHwxNjc3MzU2MjAz&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Join us on a thrilling adventure in the Swiss Alps with breathtaking views and exciting activities.",
       "author": "Jane Smith",
       "date": "2024-08-15",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "title": "Top 10 Beaches in Thailand",
-      "image": "assets/images/thailand_beach.jpg",
+      "image": "https://images.unsplash.com/photo-1532191953170-81b5f189bb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIyfHx0aGFpbGFuZCUyMGJlYWNoZXN8ZW58MHx8fHwxNjc3MzU2MjEz&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "From Phuket to Koh Samui, explore the top 10 beaches in Thailand for a perfect tropical getaway.",
       "author": "Emily Brown",
       "date": "2024-07-30",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "title": "A Guide to Exploring New York City",
-      "image": "assets/images/new_york.jpg",
+      "image": "https://images.unsplash.com/photo-1516122008046-2746f396a6d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDQxfHxueXQlMjBjaXR5fGVufDB8fHx8MTY3NzM1MjI0MA&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Your ultimate guide to exploring the vibrant streets of New York City, the city that never sleeps.",
       "author": "Michael Johnson",
       "date": "2024-09-10",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "title": "The Magic of the Northern Lights",
-      "image": "assets/images/northern_lights.jpg",
+      "image": "https://images.unsplash.com/photo-1489518284301-0a40e67b0f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vcmR8ZW58MHx8fHwxNjc3MzU2MjU3&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Witness the breathtaking Northern Lights in Norway, an unforgettable experience for travelers.",
       "author": "Sophia Davis",
       "date": "2024-02-22",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "title": "Exploring the Amazon Rainforest",
-      "image": "assets/images/amazon_rainforest.jpg",
+      "image": "https://images.unsplash.com/photo-1516311948051-e2a14b46ff65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxhbWF6b25fcmFpbmZvcmVzdHxlbnwwfHx8fDE2NzczNTYyMDM&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Get ready for an eco-adventure in the Amazon Rainforest, the world's largest tropical rainforest.",
       "author": "Carlos Martinez",
       "date": "2024-03-10",
@@ -56,7 +56,7 @@
     {
       "id": 7,
       "title": "A Culinary Journey Through Italy",
-      "image": "assets/images/italy_food.jpg",
+      "image": "https://images.unsplash.com/photo-1588814358537-57bbd0d4e586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGl0YWxpYW58ZW58MHx8fHwxNjc3MzU2MjU5&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Indulge in Italy's culinary delights as we take you on a journey through the flavors of Rome, Venice, and Florence.",
       "author": "Olivia Garcia",
       "date": "2024-05-14",
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "title": "Safari Adventures in South Africa",
-      "image": "assets/images/safari_south_africa.jpg",
+      "image": "https://images.unsplash.com/photo-1583731201062-fd8480058ca5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE0fHxzYWZhcmUlMjBzb3V0aCUyMGFmcmV8ZW58MHx8fHwxNjc3MzU2MjY0&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Experience the thrill of a South African safari, spotting the Big Five in their natural habitat.",
       "author": "Ethan Wilson",
       "date": "2024-04-22",
@@ -74,7 +74,7 @@
     {
       "id": 9,
       "title": "Backpacking Through Southeast Asia",
-      "image": "assets/images/southeast_asia.jpg",
+      "image": "https://images.unsplash.com/photo-1529961611766-4d628c775b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI4fHxzZWF0dHxlbnwwfHx8fDE2NzczNTYyOTM&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Join the ultimate backpacking adventure through Southeast Asia, from bustling cities to serene beaches.",
       "author": "Mia Thompson",
       "date": "2024-06-01",
@@ -83,7 +83,7 @@
     {
       "id": 10,
       "title": "Exploring the Ancient Temples of Egypt",
-      "image": "assets/images/egypt_temple.jpg",
+      "image": "https://images.unsplash.com/photo-1541798971044-2e33a678d0f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEyfHx0ZW1wbGVzJTIwb2YlMjBlZ3lwdHxlbnwwfHx8fDE2NzczNTYyOTg&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Uncover the mysteries of ancient Egypt by visiting the awe-inspiring temples along the Nile River.",
       "author": "Ava Taylor",
       "date": "2024-07-05",
@@ -92,7 +92,7 @@
     {
       "id": 11,
       "title": "Skiing in the Canadian Rockies",
-      "image": "assets/images/canadian_rockies.jpg",
+      "image": "https://images.unsplash.com/photo-1555695873-1664dff1729d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHxjaGFuZCUyMGNvdW50cmllc3xlbnwwfHx8fDE2NzczNTYyOTg&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Hit the slopes in the Canadian Rockies, a premier destination for skiing enthusiasts.",
       "author": "Liam White",
       "date": "2024-01-15",
@@ -101,7 +101,7 @@
     {
       "id": 12,
       "title": "Discovering the Beauty of Japan",
-      "image": "assets/images/japan.jpg",
+      "image": "https://images.unsplash.com/photo-1594411260704-ea2b2725b601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE1fHxKYXBhbnxlbnwwfHx8fDE2NzczNTYyOTk&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Explore the unique blend of tradition and modernity in Japan, from Tokyo to Kyoto's ancient temples.",
       "author": "Isabella Harris",
       "date": "2024-09-08",
@@ -110,7 +110,7 @@
     {
       "id": 13,
       "title": "An Unforgettable Road Trip Across Australia",
-      "image": "assets/images/australia_road_trip.jpg",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEyfHxBdXN0cmFsaWF8ZW58MHx8fHwxNjc3MzU3MDAw&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Hit the open road and explore the diverse landscapes of Australia on this epic road trip.",
       "author": "James Clark",
       "date": "2024-08-03",
@@ -119,7 +119,7 @@
     {
       "id": 14,
       "title": "Hiking the Inca Trail to Machu Picchu",
-      "image": "assets/images/inca_trail.jpg",
+      "image": "https://images.unsplash.com/photo-1506755561932-b785f4c9f88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE3fHxJbmNhJTIwVHJhaWx8ZW58MHx8fHwxNjc3MzU3MDAz&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Embark on a breathtaking trek along the Inca Trail, leading to the iconic Machu Picchu in Peru.",
       "author": "Charlotte Lewis",
       "date": "2024-05-28",
@@ -128,7 +128,7 @@
     {
       "id": 15,
       "title": "Exploring the Beauty of Iceland",
-      "image": "assets/images/iceland.jpg",
+      "image": "https://images.unsplash.com/photo-1550190750-69eb36c5b835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI0fHxJY2VsYW5kfGVufDB8fHx8MTY3NzM1NzA0Nw&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Witness Iceland's stunning landscapes, from volcanoes and glaciers to geysers and waterfalls.",
       "author": "Benjamin Hall",
       "date": "2024-06-18",
@@ -137,7 +137,7 @@
     {
       "id": 16,
       "title": "A Desert Adventure in Morocco",
-      "image": "assets/images/morocco_desert.jpg",
+      "image": "https://images.unsplash.com/photo-1587672611155-b9d2b0d3a665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG1vcm9jY28lMjBkZXNlcnR8ZW58MHx8fHwxNjc3MzU3MDQ2&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Journey into the heart of the Moroccan desert and experience the magic of the Sahara.",
       "author": "Elijah Scott",
       "date": "2024-03-05",
@@ -146,7 +146,7 @@
     {
       "id": 17,
       "title": "The Ultimate Guide to Visiting Bali",
-      "image": "assets/images/bali.jpg",
+      "image": "https://images.unsplash.com/photo-1515977781352-c504b78e8e68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhbGl8ZW58MHx8fHwxNjc3MzU3MDY4&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Discover the beauty of Bali, from its lush landscapes to its serene beaches and cultural experiences.",
       "author": "Amelia King",
       "date": "2024-02-18",
@@ -155,7 +155,7 @@
     {
       "id": 18,
       "title": "Exploring the National Parks of the USA",
-      "image": "assets/images/usa_national_parks.jpg",
+      "image": "https://images.unsplash.com/photo-1566863884965-8d4f7a87a021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI0fHxuYXRpb25hbCUyMHBhcmt8ZW58MHx8fHwxNjc3MzU3MDkx&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Get lost in nature with a visit to the USA's most beautiful national parks, including Yosemite and Yellowstone.",
       "author": "Lucas Rodriguez",
       "date": "2024-07-14",
@@ -164,7 +164,7 @@
     {
       "id": 19,
       "title": "Discovering the Charm of Santorini",
-      "image": "assets/images/santorini.jpg",
+      "image": "https://images.unsplash.com/photo-1600070523601-6cb7d709f654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIyfHxTYW50b3Jpbml8ZW58MHx8fHwxNjc3MzU3MDk5&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Fall in love with the whitewashed houses and breathtaking sunsets of Santorini, Greece.",
       "author": "Grace Young",
       "date": "2024-09-02",
@@ -173,10 +173,10 @@
     {
       "id": 20,
       "title": "Wildlife Safari in Kenya",
-      "image": "assets/images/kenya_safari.jpg",
+      "image": "https://images.unsplash.com/photo-1512481173048-1703a3c7b867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI1fHxLYW55YSUyMHNhZmFyaXxlbnwwfHx8fDE2NzczNTcwMDA&ixlib=rb-1.2.1&q=80&w=1080",
       "description": "Experience a once-in-a-lifetime wildlife safari in Kenya's Maasai Mara, home to the Great Migration.",
       "author": "Henry Green",
       "date": "2024-01-25",
       "category": "Africa"
     }
-  ]
+]
